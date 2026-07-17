@@ -48,12 +48,6 @@
 
 # 📊 GitHub Stats
 
-> Jika bagian ini Error Fetching Resource, hapus sementara karena server publik GitHub Stats sedang bermasalah.
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImanuelAndreasGulo&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanuelAndreasGulo&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
