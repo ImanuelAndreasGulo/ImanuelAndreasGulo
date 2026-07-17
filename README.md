@@ -1,32 +1,103 @@
-# Hi 👋, I'm Imanuel Andreas Gulo
+<h1 align="center">Hi 👋, I'm Imanuel Andreas Gulo</h1>
+<h3 align="center">Informatics Engineering Student | Software Developer | Web Developer</h3>
 
-🎓 Informatics Engineering Student at Matana University
-
-💞 Passionate about Web Development
-
-🚗 DOHC enthusiast (solo style) | 🎮 Gamer | 🎧 Music lover
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;ASP.NET+MVC+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🌐 Socials
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imanuel-andreas-gulo)
+- 🎓 Informatics Engineering Student at **Matana University**
+- 💻 Passionate about **Web Development**
+- 🌱 Currently learning **ASP.NET MVC, C#, JavaScript**
+- 🚗 DOHC Enthusiast
+- 🎮 Gamer
+- 🎧 Music Lover
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imanuelandreass)
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:imanuelandreas2005@gmail.com)
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/imanuel-andreas-gulo" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/imanuelandreass" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:imanuelandreas2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,python,php,mysql,git,github,vscode,visualstudio"/>
+
+</p>
+
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=imanuelgulo&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImanuelAndreasGulo&layout=compact&theme=tokyonight))
+> Jika bagian ini Error Fetching Resource, hapus sementara karena server publik GitHub Stats sedang bermasalah.
 
-## 💻 Tech Stack
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImanuelAndreasGulo&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanuelAndreasGulo&layout=compact&theme=tokyonight"/>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-red?logo=microsoftsqlserver)
+---
 
-![](https://komarev.com/ghpvc/?username=USERNAME)
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ImanuelAndreasGulo&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImanuelAndreasGulo&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- ASP.NET MVC
+- C#
+- JavaScript
+- SQL Server
+- Entity Framework
+- REST API
+
+---
+
+## 📫 Contact
+
+📧 **Email:** imanuelandreas2005@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/imanuel-andreas-gulo
+
+📷 **Instagram:** https://instagram.com/imanuelandreass
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ImanuelAndreasGulo&style=for-the-badge&color=blue"/>
+</p>
+
+<p align="center">
+⭐️ From <a href="https://github.com/ImanuelAndreasGulo">Imanuel Andreas Gulo</a>
+</p>
