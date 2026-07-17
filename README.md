@@ -19,13 +19,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-https://github-readme-stats.vercel.app/api?username=ImanuelAndreasGulo&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanuelgulo&show_icons=true&theme=tokyonight)
 
 ## 💻 Tech Stack
 
