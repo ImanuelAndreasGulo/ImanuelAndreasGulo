@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Imanuel Andreas Gulo
 
-<!--
-**ImanuelAndreasGulo/ImanuelAndreasGulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineering Student at Matana University
 
-Here are some ideas to get you started:
+💞 Passionate about Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚗 DOHC enthusiast (solo style) | 🎮 Gamer | 🎧 Music lover
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imanuel-andreas-gulo)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imanuelandreass)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:imanuelandreas2005@gmail.com)
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+## 💻 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?logo=microsoftsqlserver)
+
+![](https://komarev.com/ghpvc/?username=USERNAME)
