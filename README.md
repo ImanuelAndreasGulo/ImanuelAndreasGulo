@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanuelgulo&show_icons=true&theme=tokyonight)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=imanuelgulo&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImanuelAndreasGulo&layout=compact&theme=tokyonight))
 
 ## 💻 Tech Stack
 
