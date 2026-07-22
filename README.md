@@ -12,7 +12,6 @@
 - 🎓 Informatics Engineering Student at **Matana University**
 - 💻 Passionate about **Web Development**
 - 🌱 Currently learning **ASP.NET MVC, C#, JavaScript**
-- 🚗 DOHC Enthusiast
 - 🎮 Gamer
 - 🎧 Music Lover
 
